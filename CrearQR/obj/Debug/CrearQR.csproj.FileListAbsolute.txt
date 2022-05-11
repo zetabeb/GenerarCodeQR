@@ -1,0 +1,9 @@
+C:\Users\zamirbb\OneDrive - CAPITAL SALUD EPS-S SAS\r\FUENTES\CrearQR\CrearQR\bin\Debug\CrearQR.exe.config
+C:\Users\zamirbb\OneDrive - CAPITAL SALUD EPS-S SAS\r\FUENTES\CrearQR\CrearQR\bin\Debug\CrearQR.exe
+C:\Users\zamirbb\OneDrive - CAPITAL SALUD EPS-S SAS\r\FUENTES\CrearQR\CrearQR\bin\Debug\CrearQR.pdb
+C:\Users\zamirbb\OneDrive - CAPITAL SALUD EPS-S SAS\r\FUENTES\CrearQR\CrearQR\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\zamirbb\OneDrive - CAPITAL SALUD EPS-S SAS\r\FUENTES\CrearQR\CrearQR\bin\Debug\itextsharp.dll
+C:\Users\zamirbb\OneDrive - CAPITAL SALUD EPS-S SAS\r\FUENTES\CrearQR\CrearQR\bin\Debug\itextsharp.xml
+C:\Users\zamirbb\OneDrive - CAPITAL SALUD EPS-S SAS\r\FUENTES\CrearQR\CrearQR\obj\Debug\CrearQR.csprojResolveAssemblyReference.cache
+C:\Users\zamirbb\OneDrive - CAPITAL SALUD EPS-S SAS\r\FUENTES\CrearQR\CrearQR\obj\Debug\CrearQR.exe
+C:\Users\zamirbb\OneDrive - CAPITAL SALUD EPS-S SAS\r\FUENTES\CrearQR\CrearQR\obj\Debug\CrearQR.pdb
